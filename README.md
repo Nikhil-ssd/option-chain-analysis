@@ -6,7 +6,7 @@ Financial Data Analysis project in Python to analyze NIFTY50 option-chain data w
 I have used Web-Scraping to fetch the NIFTY option-chain data from NSE's official website (https://www.nseindia.com/option-chain) through the commonly used 
 NSE API - "https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY".
 
-### I have utilised Python's Web-Scraping library requests to fetch the data in a JSON format which I later normalized and stored in a dataframe for analysis.
+### I have utilised Python's Web-Scraping library "requests" to fetch the data in a JSON format which I later normalized and stored in a dataframe for analysis.
 
 # Dataset Information
 
